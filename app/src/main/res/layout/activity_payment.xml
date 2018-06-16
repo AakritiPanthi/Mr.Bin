@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/roundtextblue">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="E-PAY"
+        android:textSize="30dp"
+        android:textColor="@color/green"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Payment Partner:"
+        android:textSize="25dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/green"
+        android:layout_marginLeft="20dp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/esewa"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/esewa"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:src="@drawable/khalti"
+        android:layout_marginLeft="25dp"/>
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="25dp"
+            android:src="@drawable/qpay"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorWhite"/>
+    </LinearLayout>
+
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Customer Id:"-->
+        <!--android:textSize="20dp"-->
+        <!--android:layout_marginTop="30dp"-->
+        <!--android:textColor="@color/colorWhite"-->
+        <!--android:textStyle="bold"-->
+        <!--android:layout_marginLeft="10dp"/>-->
+
+   <!--<EditText-->
+       <!--android:layout_width="match_parent"-->
+       <!--android:layout_height="wrap_content"-->
+       <!--android:layout_marginTop="10dp"-->
+       <!--/>-->
+    <!--<Spinner-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="50dp"-->
+        <!--android:layout_marginLeft="10dp"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:entries="@array/rupees">-->
+
+    <!--</Spinner>-->
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+       <!--android:layout_marginRight="20dp"-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:text="Proceed"-->
+        <!--android:background="@color/green"-->
+        <!--android:textColor="@color/colorWhite"-->
+        <!--android:textSize="20dp"-->
+        <!--android:textStyle="bold"-->
+        <!--android:layout_marginTop="20dp"/>-->
+
+
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+    <string name="user_name">Hello, Mr.Ram</string>
+    <string name="notification">Reminder</string>
+    <string name="notify">E-Waste Alert: \n The Waste disposal truck will arrive today. \n Please be alert. \n 04:30pm 22/04/2018</string>
+    <string name="notify1">E-Waste Alert: \n The Waste disposal truck will arrive today. \n Please be alert. \n 04:00pm 22/04/2018</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">News</string>
+    <string name="Schedule">Schedule</string>
+    <string name="Services">Services:</string>
+    <string name="Reports">Reports and Issue</string>
+    <string name="Notification">Notification</string>
+    <string name="Helpline">Helpline</string>
+    <string name="near">Near By</string>
+    <string name="pay">E-pay</string>
+    <string name="home">Home</string>
+    <string name="Event">Event</string>
+    <string name="what">What goes where?</string>
+    <string name="Help">Fees &amp; Charges</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="country_arrays">
+        <item>Ason</item>
+        <item>Lainchour</item>
+        <item>Thamel</item>
+        <item>Balaju</item>
+        <item>Gangabu</item>
+        <item>Banasthali</item>
+        <item>Jawalakhel</item>
+    </string-array>
+    <string-array name="rupees">
+        <item>Rs.350</item>
+        <item>Rs. 700</item>
+        <item>Rs.1050 </item>
+    </string-array>
+
+    <string-array name="language">
+        <item>Choose language</item>
+        <item>English</item>
+        <item>Nepali</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

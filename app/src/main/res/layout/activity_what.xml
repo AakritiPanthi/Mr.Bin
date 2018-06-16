@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorHint">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Garbage"
+        android:textColor="@color/red"
+        android:textSize="35dp"
+        android:padding="15dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Garbage include coffee cup, glass broken.It is suitable for waste. Broken glass should be wrapeed before disposal."
+        android:textSize="20dp"
+        android:padding="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Organic"
+        android:textColor="@color/green"
+        android:textSize="35dp"
+        android:padding="15dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Organic waste, or green waste, is organic material such as food, garden and lawn clippings. It can also include animal and plant based material and degradable carbon such as paper, cardboard and timber."
+        android:textSize="20dp"
+        android:padding="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recycle"
+        android:textColor="@color/yellow"
+        android:textSize="35dp"
+        android:padding="15dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tins : Tins can be recycled in your yellow lidded recycling bin. Simply rinse them out first.
+La timro bhasa ma lekhi deu yeso milayera
+Aluminium Foil/Containers"
+        android:textSize="20dp"
+        android:padding="10dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

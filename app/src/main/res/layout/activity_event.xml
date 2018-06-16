@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Waste Mannagement Program"
+            android:textColor="@color/green"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address: Gangabu,Kathmandu"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date: Asar 8 ,2075                  Time: 7:00am"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="-30dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Garbage Recycling Traning"
+            android:textColor="@color/green"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address: Baniyatar,Kathmandu"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date: Asar 15,2075                Time: 7:00am"
+            android:textColor="@color/colorBlack"
+            android:padding="10dp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="-30dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

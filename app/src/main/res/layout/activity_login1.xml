@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorHint">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      android:text="Mr.Bin"
+      android:layout_gravity="center"
+      android:gravity="bottom"
+      android:paddingLeft="120dp"
+      android:background="@color/green"
+      android:textColor="@color/colorWhite"
+      android:textSize="50dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="House No"
+        android:textColorHint="@color/green"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:hint="Pssword"
+        android:textColorHint="@color/green"/>
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign In"
+        android:layout_gravity="center"
+        android:background="@color/green"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Don't have account"
+        android:textColor="@color/green"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="15dp"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Create one"
+            android:textColor="@color/colorPrimary"
+            android:background="@color/colorHint"
+            android:layout_marginTop="2dp"/>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "891649013759",
+    "firebase_url": "https://project1-8b9c9.firebaseio.com",
+    "project_id": "project1-8b9c9",
+    "storage_bucket": "project1-8b9c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891649013759:android:d22a635b656b8d77",
+        "android_client_info": {
+          "package_name": "com.example.dell.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891649013759-inn9ern5jk2dkeiqc2e117n9l9r6qj81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIXfcIFsPC6ok4Bc7PrfaYdEmNH2vfpCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891649013759:android:8882c9aad1a17676",
+        "android_client_info": {
+          "package_name": "com.example.dell.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891649013759-inn9ern5jk2dkeiqc2e117n9l9r6qj81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIXfcIFsPC6ok4Bc7PrfaYdEmNH2vfpCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
